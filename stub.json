@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a beautifully styled birthday form component using Tailwind CSS and Radix UI. Include this component in an example index page.","md5":"0042b9de1e4ed8ee4e15f01ab2ad7e37"}]}
